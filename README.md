@@ -1,6 +1,6 @@
 # Multi-Tab Sticky Header Scroll Sync
 
-![Demo](./9f4054b7e72fd30bb760d17005424497.mp4)
+![Demo](./picture.gif)
 
 ## Requirements
 
